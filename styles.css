@@ -6,3 +6,10 @@ color_1{background-color: white;}
     padding: 8px 12px;
     background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);}
   .farge1 {background-color: #444;}
+.sub_div {
+	position:absolute;
+    margin-bottom: 0px;
+    bottom: 0px;}
+	.bottom_text {
+	margin-left:auto;
+    margin-right: auto;}
