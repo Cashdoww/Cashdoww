@@ -1,15 +1,30 @@
-color_1{background-color: white;}
+color_1{background-color: white;
+}
 .shadowbox {
     width: 15em;
     border: 1px solid #333;
     box-shadow: 8px 8px 5px #444;
     padding: 8px 12px;
     background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);}
-  .farge1 {background-color: #444;}
+  .farge1 {background-color: #444;
+}
 .sub_div {
 	position:absolute;
     margin-bottom: 0px;
-    bottom: 0px;}
-	.bottom_text {
+    bottom: 0px;
+}
+.bottom_text {
 	margin-left:auto;
-    margin-right: auto;}
+    margin-right: auto;
+}
+.farge_hvit{
+      color: rgb(255, 255, 255) 
+    }
+.font_style1{
+      font: italic;
+    }
+.footer{
+  min-height: 550px;
+  width: 100%;
+  background-color: rgb(13,22,55);
+}
